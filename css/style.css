@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+}
+
+/*CABEÇALHO PRINCIPAL */
+.main-header{
+    background-color: rgb(133, 231, 238);
+    display: flex;
+    padding: 20px 40px; 
+}
+
+/*seletor composto .main-header img */
+.main-header img{
+    width: 150px;
+    
+}
+
+/*CONTEUDO PRINCIPAL */
+.main-content{
+    background-color: ;
+
+}
+
+/*RODAPÉ PRINCIPAL */
+.main-footer{
+background-color: ;
+}
+
+
+.main-header ul{
+    display: flex;
+}
